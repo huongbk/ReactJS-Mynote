@@ -1,2 +1,5 @@
-# My-Note-ReactJS
-Mynote ReactJS from F8 Official
+# ReactJS
+
+Notebook from ReactJS Course on F8 Official
+
+Mynote each video: MyNoteReactJSCourse.md
