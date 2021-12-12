@@ -10,12 +10,12 @@
   - Hiểu biết về mô hình Client-Server
   - Phân biệt rõ ràng được Front-end & Back-end
   - Nắm chắc HTML, CSS, đã có sản phẩm tự tay làm
-  - Nắm chắc Javascript cơ bản và nâng cao
+  - Nắm chắc Javascript cơ bản và nâng cao, mình có note khóa JavaScript Cơ bản của [CodeX](https://www.youtube.com/c/CodersX/playlists) tại file [JavaScriptBasic.md](https://github.com/huongbk/ReactJS-Mynote/JavaScriptBasic.md)
   - etc.
 
 -----------------------------------------------------------------------------
 
-## Nội dung khóa học
+## Nội dung khóa học RactJS 2021 F8 Official
 
 -----------------------------------------------------------------------------
 
